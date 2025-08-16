@@ -1,6 +1,6 @@
 README
 
-Project: Fake News Detection with NLP
+Project: Natural language Processing for fake and Real news
 
 Goal
 Classify news articles as real (1) or fake (0).
